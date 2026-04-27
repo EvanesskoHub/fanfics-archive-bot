@@ -29,6 +29,13 @@
 | python-docx      | Чтение метаданных из docx файлов      |
 | ebooklib + bs4   | Парсинг epub и fb2                    |
 
+## 📸 Скриншоты
+
+![Скриншот 1](screenshots/1.png)
+![Скриншот 2](screenshots/2.png)
+![Скриншот 3](screenshots/3.png)
+![Скриншот 4](screenshots/4.png)
+
 ## ⚙️ Установка и запуск
 
 ### Предварительные требования
