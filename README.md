@@ -31,10 +31,10 @@
 
 ## 📸 Скриншоты
 
-![Скриншот 1](screenshots/1.png)
-![Скриншот 2](screenshots/2.png)
-![Скриншот 3](screenshots/3.png)
-![Скриншот 4](screenshots/4.png)
+![Скриншот 1](screenshots/1.jpg)
+![Скриншот 2](screenshots/2.jpg)
+![Скриншот 3](screenshots/3.jpg)
+![Скриншот 4](screenshots/4.jpg)
 
 ## ⚙️ Установка и запуск
 
