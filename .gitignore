@@ -1,0 +1,12 @@
+venv/
+.venv/
+env/
+.env
+fanfics_storage/
+*.db
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+*.swp
+.DS_Store
