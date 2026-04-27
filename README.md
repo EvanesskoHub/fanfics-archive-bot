@@ -106,7 +106,7 @@ This project demonstrates:
 
 ---
 
-💬 **Contact:** [Telegram](@Evanessko) | [Email](mailto:zupinka2004@mail.ru)
+💬 **Contact:** [Telegram](https://t.me/Evanessko) | [Email](mailto:zupinka2004@mail.ru)
 
 ---
 
@@ -118,4 +118,4 @@ This project demonstrates:
 
 **Стек:** Python, aiogram, SQLite + FTS5.
 
-**Контакты:** [Telegram](@Evanessko) | [Email](mailto:zupinka2004@mail.ru)
+**Контакты:** [Telegram](https://t.me/Evanessko) | [Email](mailto:zupinka2004@mail.ru)
